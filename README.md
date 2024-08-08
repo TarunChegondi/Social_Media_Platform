@@ -2,7 +2,7 @@
 
 Bazinga.Com is a social media platform where we all can share memes and pretend we're working. Let's connect and keep the procrastination game strong!
 
-![Alt text]("C:\Users\chego\OneDrive\Documents\Desktop\Bazinga.Com.png")
+("C:\Users\chego\OneDrive\Documents\Desktop\Bazinga.Com.png")
 
 
 ## Features
